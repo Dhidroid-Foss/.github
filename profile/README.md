@@ -1,4 +1,4 @@
-# 🌱 Welcome to Dhidroid Community's GitHub!
+# 🌱 Welcome to Dhidroid Community
 
 **Dhidroid Community** is an open developer community for people who love to **build, learn, share, and contribute**.
 
