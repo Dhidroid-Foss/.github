@@ -742,5 +742,3 @@ The community belongs to everyone who contributes to it.
 ### Made with curiosity by the Dhidroid Community.
 
 ⭐ **Build something. Share something. Contribute something.**
-
-```
